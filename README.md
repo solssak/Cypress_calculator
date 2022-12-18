@@ -96,7 +96,7 @@ This project is [MIT](https://github.com/blackcoffee-study/js-calculator/blob/ma
 
 ## 왜 테스트를 작성하는가?
 
-### >> 테스트 자동화
+### 테스트 자동화
 
 #### 장점
 
